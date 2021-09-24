@@ -4,9 +4,5 @@ A list of open source resources relevant to human operated ransomware.
 [Cobalt Strike](#cobalt-strike)
 
 
-# [Cobalt Strike](#cobalt-strike)
+# Cobalt Strike
  - [Github Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
-
-[click on this link](#my-multi-word-header)
-
-### My Multi Word Header
