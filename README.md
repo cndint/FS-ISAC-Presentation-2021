@@ -1,9 +1,9 @@
 # FS-ISAC Presentation 2021
 A list of open source resources relevant to human operated ransomware.
 
-[Center for Internet Security](#Center-for-Internet-Security)
-[Cobalt Strike](#cobalt-strike)
-[Center for Internet Security](#Center-for-Internet-Security)
+- [Center for Internet Security](#Center-for-Internet-Security)
+- [Cobalt Strike](#cobalt-strike)
+- [Center for Internet Security](#Center-for-Internet-Security)
 
 # Center for Internet Security
 - [CIS (2021) CIS Community Defense Model 2.0](https://www.cisecurity.org/white-papers/cis-community-defense-model-2-0/)
