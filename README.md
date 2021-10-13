@@ -1,5 +1,5 @@
 # FS-ISAC Presentation 2021
-A list of open source resources relevant to human operated ransomware.
+A list of open source resources relevant to defending against human operated ransomware.
 
 - [Center for Internet Security](#Center-for-Internet-Security)
 - [Cobalt Strike](#cobalt-strike)
