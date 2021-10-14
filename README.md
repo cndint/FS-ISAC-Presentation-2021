@@ -3,7 +3,16 @@ A list of open source resources relevant to defending against human operated ran
 
 - [Center for Internet Security](#Center-for-Internet-Security)
 - [Cobalt Strike](#cobalt-strike)
-- [Center for Internet Security](#Center-for-Internet-Security)
+- [Conti](#Conti)
+- [Living Off The Land Binaries and Scripts (LOLBAS)](#Living-Off-The-Land-Binaries-and-Scripts-(LOLBAS))
+- [Detection Engineering](#Detection-Engineering)
+- [MITRE ATT&CK Related Resources](#MITRE-ATT&CK-Related-Resources)
+- [Phishing Mitigation Guidance](#Phishing-Mitigation-Guidance)
+- [Protecting Privileged Accounts](#Protecting-Privileged-Accounts)
+- [Ransomware Guidance](#Ransomware-Guidance)
+- [Ryuk](#Ryuk)
+- [SIGMA](#SIGMA)
+- [WIZARD SPIDER](#WIZARD-SPIDER)
 
 # Center for Internet Security
 - [CIS (2021) CIS Community Defense Model 2.0](https://www.cisecurity.org/white-papers/cis-community-defense-model-2-0/)
