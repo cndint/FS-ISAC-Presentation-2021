@@ -1,5 +1,5 @@
 # FS-ISAC Presentation 2021
-A list of open source resources relevant to defending against human operated ransomware.
+A list of open source resources relevant to defending against human operated ransomware. All links accessed on 1 November 2021.
 
 - [Bazar](#Bazar)
 - [Center for Internet Security](#Center-for-Internet-Security)
@@ -14,7 +14,7 @@ A list of open source resources relevant to defending against human operated ran
 - [Rclone](#Rclone)
 - [Remote Administration Tools](#Remote-Administration-Tools)
 - [Ryuk](#Ryuk)
-- [SIGMA](#SIGMA)
+- [SIGMA and EQL](#SIGMA_and_EQL)
 - [Trickbot](#Trickbot)
 - [Vssadmin](#Vssadmin)
 - [WIZARD SPIDER](#WIZARD-SPIDER)
@@ -102,7 +102,8 @@ A list of open source resources relevant to defending against human operated ran
 - [The DFIR Report (2020, October 18) Ryuk in 5 Hours](https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/)
 - [Red Canary (2020, October 29) A Bazar start: How one hospital thwarted a Ryuk ransomware outbreak](https://redcanary.com/blog/how-one-hospital-thwarted-a-ryuk-ransomware-outbreak/)
 
-# SIGMA
+# SIGMA and EQL
+- [EQL Analytics Library](https://eqllib.readthedocs.io/en/latest/)
 - [Sigma](https://github.com/SigmaHQ/sigma)
 - [Uncoder.io - universal sigma rule converter for various SIEM, EDR, and NTDR formats ](https://uncoder.io/)
 - [win_office_shell.yml](https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_office_shell.yml)
