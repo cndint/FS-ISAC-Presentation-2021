@@ -38,13 +38,13 @@ A list of open source resources relevant to defending against human operated ran
 - [Recorded Future (2021, September 14) How to Detect Cobalt Strike An Inside Look at the Popular Commercial Post-Exploitation Tool](https://www.recordedfuture.com/detect-cobalt-strike-inside-look/)
 
 # Conti
-- [AdvIntel (2021, September 29 Backup “Removal” Solutions - From Conti Ransomware With Love)](https://www.advintel.io/post/backup-removal-solutions-from-conti-ransomware-with-love)
+- [AdvIntel (2021, August 16) Hunting for Corporate Insurance Policies: Indicators of [Ransom] Exfiltration](https://www.advintel.io/post/hunting-for-corporate-insurance-policies-indicators-of-ransom-exfiltrations)
+- [AdvIntel (2021, September 29) Backup “Removal” Solutions - From Conti Ransomware With Love](https://www.advintel.io/post/backup-removal-solutions-from-conti-ransomware-with-love)
 - [CISA et al(2021, September 22) Conti Ransomware](https://us-cert.cisa.gov/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf)
 - [Cisco (2021, September 2) Translated: Talos' insights from the recently leaked Conti ransomware playbook](https://blog.talosintelligence.com/2021/09/Conti-leak-translation.html)
 - [The DFIR Report (2021, May 12) Conti Ransomware](https://thedfirreport.com/2021/05/12/conti-ransomware/)
 - [The DFIR Report (2021, August 1) BazarCall to Conti Ransomware via Trickbot and Cobalt Strike](https://thedfirreport.com/2021/08/01/bazarcall-to-conti-ransomware-via-trickbot-and-cobalt-strike/)
 - [The DFIR Report (2021, September 13) BazarLoader to Conti Ransomware in 32 Hours](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/)
-- [644cf848]
 
 # Detection and Response
 - [CISA et al, (2020, September 1) Technical Approaches to Uncovering and Remediating Malicious Activity](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
@@ -84,8 +84,8 @@ A list of open source resources relevant to defending against human operated ran
 - [Group-IB (2021, March) Ransomware Uncovered 2020/2021](https://www.group-ib.com/resources/threat-research/ransomware-2021.html)
 - [Mandiant (2020) Ransomware Protection and Containment Strategies](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf)
 - [Microsoft (2021, October 15) Human-operated ransomware](https://docs.microsoft.com/en-us/security/compass/human-operated-ransomware)
-- [](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1)
-- [](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2)
+- [Microsoft (2021, September 20) A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1)
+- [Microsoft (2021, September 27) A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2)
 - [PWC (2020) Responding to the growing threat of human-operated ransomware attacks](https://www.pwc.co.uk/cyber-security/pdf/responding-to-growing-human-operated-ransomware-attacks-threat.pdf)
 - [Secureworks (2021, July 28) Phases of a Post-Intrusion Ransomware Attack](https://www.secureworks.com/research/phases-of-a-post-intrusion-ransomware-attack)
 
