@@ -40,7 +40,7 @@ A list of open source resources relevant to defending against human operated ran
 # Conti
 - [AdvIntel (2021, August 16) Hunting for Corporate Insurance Policies: Indicators of [Ransom] Exfiltration](https://www.advintel.io/post/hunting-for-corporate-insurance-policies-indicators-of-ransom-exfiltrations)
 - [AdvIntel (2021, September 29) Backup “Removal” Solutions - From Conti Ransomware With Love](https://www.advintel.io/post/backup-removal-solutions-from-conti-ransomware-with-love)
-- [CISA et al(2021, September 22) Conti Ransomware](https://us-cert.cisa.gov/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf)
+- [CISA et al (2021, September 22) Conti Ransomware](https://us-cert.cisa.gov/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf)
 - [Cisco (2021, September 2) Translated: Talos' insights from the recently leaked Conti ransomware playbook](https://blog.talosintelligence.com/2021/09/Conti-leak-translation.html)
 - [The DFIR Report (2021, May 12) Conti Ransomware](https://thedfirreport.com/2021/05/12/conti-ransomware/)
 - [The DFIR Report (2021, August 1) BazarCall to Conti Ransomware via Trickbot and Cobalt Strike](https://thedfirreport.com/2021/08/01/bazarcall-to-conti-ransomware-via-trickbot-and-cobalt-strike/)
@@ -122,7 +122,7 @@ A list of open source resources relevant to defending against human operated ran
 
 # WIZARD SPIDER
 - [Mandiant (2021, October 7) FIN12 Group Profile](https://www.mandiant.com/media/12596/download)
-- [IBM (2021, October 13 Trickbot Rising — Gang Doubles Down on Infection Efforts to Amass Network Footholds)](https://securityintelligence.com/posts/trickbot-gang-doubles-down-enterprise-infection/)
+- [IBM (2021, October 13) Trickbot Rising — Gang Doubles Down on Infection Efforts to Amass Network Footholds](https://securityintelligence.com/posts/trickbot-gang-doubles-down-enterprise-infection/)
 
 # Yara Rules
 - [Awesome YARA](https://github.com/InQuest/awesome-yara)
